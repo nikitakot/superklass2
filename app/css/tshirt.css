@@ -1,0 +1,12 @@
+@media (min-width: 768px) {
+  .header-row {
+    height: 20%; }
+  .footer-row {
+    height: 20%; }
+  .content-row {
+    height: 60%; } }
+
+.my-button {
+  color: black;
+  background-color: #1bedff;
+  border-color: #1bedff; }
